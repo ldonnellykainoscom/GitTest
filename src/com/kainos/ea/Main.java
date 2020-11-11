@@ -28,7 +28,6 @@ public class Main {
             emps.add(d);
             emps.add(e);
             emps.add(f);
-            //
 
 
             Collections.shuffle(emps);
